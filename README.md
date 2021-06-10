@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gyaneswar
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning asp.net core web apis,EF core, ADO.net,Azure Devops, Data structures
+- 💞️ I’m looking to collaborate on anything , i will help you for free to gain knowledge
+- 📫 How to reach me : mail: gyaneswarsingh53@gmail.com 
