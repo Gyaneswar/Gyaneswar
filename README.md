@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gyaneswar
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning angular , typescript , asp.net core web apis,EF core, ADO.net,Azure Devops, Data structures
+- 🌱 I’m currently learning typescript , asp.net core web apis, EF core, ADO.net, Data structures
 - 💞️ I'm Looking forward to learn
 - 📫 How to reach me : mail: gyaneswarsingh53@gmail.com 
