@@ -1,7 +1,6 @@
 <h1>Hello, I am Gyaneswar Singh</h1>
-<h3>A passionate Engineer</h3>
+<h4>Senior Software Engineer specializing in distributed systems, event-driven architectures, and cloud-native Java applications. Currently scaling ServiceNow Cloud.</h4>
 
-- 🔭 I’m currently scaling **ServiceNow Cloud**
 - Fun fact
 
   ![CatsComputerGIF (2)](https://github.com/user-attachments/assets/0b40242b-97cc-4a6d-af9e-30fe9333ea8d)
