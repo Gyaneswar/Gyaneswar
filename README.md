@@ -16,7 +16,7 @@ pet projects :
   <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></td>
   </tr></table>
 
-<h4>Senior Software Engineer specializing in distributed systems, event-driven architectures, and cloud-native Java applications. Currently scaling ServiceNow Cloud.</h4>
+<h4>Software Engineer specializing in distributed systems, event-driven architectures, and cloud-native Java applications.</h4>
 
 ![CodingGIF](https://github.com/user-attachments/assets/7d021128-e658-4280-b0ee-7291a3aacc2a)
 
