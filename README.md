@@ -1,6 +1,8 @@
 <h1>Hello, I am Gyaneswar Singh</h1>
 
-pet project : http://smartjobassistant.org/
+pet projects : 
+  1. http://smartjobassistant.org/
+  2. https://know-your-type-astro.vercel.app/
 
 <h3>Smart Job Assistant Tech Stack:</h3>
 <table border="0" cellspacing="10" cellpadding="0"><tr>
