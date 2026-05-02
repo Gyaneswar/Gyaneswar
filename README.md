@@ -4,7 +4,7 @@ pet projects :
   1. http://smartjobassistant.org/
   2. https://know-your-type-astro.vercel.app/
 
-<h3>Smart Job Assistant Tech Stack:</h3>
+<h3>Tech Stack for saas i used:</h3>
 <table border="0" cellspacing="10" cellpadding="0"><tr>
   <td><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a></td>
   <td><a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/> </a></td>
