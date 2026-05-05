@@ -2,7 +2,7 @@
 
 pet projects : 
   1. http://smartjobassistant.org/
-  2. https://know-your-type-astro.vercel.app/
+  2. https://know-your-type-astro.vercel.app/ (15k total visits till now, using clarity for analytics)
 
 <h3>Tech Stack for saas i used:</h3>
 <table border="0" cellspacing="10" cellpadding="0"><tr>
