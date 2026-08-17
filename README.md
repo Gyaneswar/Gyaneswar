@@ -14,6 +14,10 @@
   <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></td>
   </tr></table>
 
+  pet projects : 
+  1. https://ktuys.vercel.app/login
+  2. [http://smartjobassistant.org/](https://job-search-assister-landing.vercel.app/)
+
 <h4>Software Engineer specializing in distributed systems, event-driven architectures, and cloud-native Java applications.</h4>
 
 ![CodingGIF](https://github.com/user-attachments/assets/7d021128-e658-4280-b0ee-7291a3aacc2a)
